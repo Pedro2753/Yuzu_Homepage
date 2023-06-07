@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/06/Yuzu_Emulator.svg_.png</url>
+	<title>pedro &#8211; Yuzu</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Olá, mundo!</title>
 		<link>./../../../2023/06/06/ola-mundo/index.html</link>
